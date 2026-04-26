@@ -1,0 +1,2 @@
+# BAZ-MAP6
+Abaes150000symbolsSystemToReachIPV6withLimitedresources
